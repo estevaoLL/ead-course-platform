@@ -81,8 +81,7 @@ A organização das pastas reflete a arquitetura planejada para separar dados, r
 
 1. Clone o repositório para sua máquina local:
 ```bash
-git clone [https://github.com/estevaoLL/NOME_DO_SEU_REPOSITORIO.git](https://github.com/estevaoLL/NOME_DO_SEU_REPOSITORIO.git)
-cd NOME_DO_SEU_REPOSITORIO
+git clone https://github.com/estevaoLL/ead-course-platform.git
 ```
 
 2. Instale as dependências essenciais:
