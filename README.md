@@ -2,7 +2,7 @@
 
 Sistema web integrado de gestão e ensino à distância (EAD), desenvolvido como projeto prático para a disciplina de Princípios de Engenharia de Software. A plataforma foi projetada para centralizar a administração de conteúdo acadêmico e proporcionar uma experiência de aprendizado flexível, conectando Alunos e Professores.
 
-## ✨ Características Principais
+## Características Principais
 
 * **Arquitetura Baseada em Requisitos:** Sistema totalmente modelado a partir de Casos de Uso (CDUs), Histórias de Usuário e Diagramas Conceituais.
 * **Múltiplos Atores:** Interfaces e fluxos de navegação distintos para Alunos e Instrutores/Professores.
@@ -11,11 +11,11 @@ Sistema web integrado de gestão e ensino à distância (EAD), desenvolvido como
 
 ---
 
-## 🚀 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 O projeto implementa uma vasta gama de Casos de Uso (CDUs) definidos na documentação oficial:
 
-### 🧑‍🎓 1. Visão do Aluno
+### 1. Visão do Aluno
 * **Busca e Filtro de Cursos:** Autocomplete por palavra-chave e filtros combinados (nível, preço, avaliação).
 * **Jornada de Matrícula:** Visualização detalhada de ementas, adição ao carrinho, aplicação de cupons de desconto e simulação de checkout.
 * **Ambiente Virtual de Aprendizagem (Player):** 
@@ -29,7 +29,7 @@ O projeto implementa uma vasta gama de Casos de Uso (CDUs) definidos na document
 * **Certificação:** Emissão de certificado (simulada) liberada automaticamente ao atingir 100% de progresso.
 * **Suporte:** Abertura e acompanhamento de tickets de atendimento.
 
-### 👨‍🏫 2. Visão do Professor / Instrutor
+### 2. Visão do Professor / Instrutor
 * **Gestão de Conteúdo (Criação de Cursos):**
   * Cadastro de informações básicas (Título, Descrição, Nível).
   * Estruturação de grade curricular (Adicionar/Editar/Remover Módulos e Aulas).
@@ -102,7 +102,7 @@ yarn dev
 
 ---
 
-## 🗄️ Entendendo a Persistência de Dados (Mock)
+## Entendendo a Persistência de Dados (Mock)
 
 Diferente de sistemas com backend integrado, este projeto possui foco exclusivo na **Camada de Apresentação e Regras de Negócio**. 
 
